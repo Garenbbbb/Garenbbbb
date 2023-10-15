@@ -1,6 +1,17 @@
 # 💫 About Me:
-I am currently pursuing a Master of Computer Science degree at the University of Chicago<br>I completed my undergraduate degree in Computer Engineering at the University of Illinois in Urbana-Champaign<br>I am currently actively seeking a software engineer intern position to further enhance my skills and knowledge.<br>I used to interned as a software developer in China's top 5 Tech company Meituan
+- 🔭 I’m currently pursuing a **Master of Computer Science** degree at the **University of Chicago**
 
+- 🌱 I’m currently seeking a **software engineer intern** position
+
+- 👯 I’ve completed my undergraduate degree in **Computer Engineering** at the **University of Illinois in Urbana-Champaign**
+  
+- 💼 I’ve intern as a software developer in China's top 5 Tech company [**Meituan**](https://www.meituan.com/en-US/about-us)
+
+- 📫 How to reach me **zihanhu2@uchicago.edu**
+
+- ⚡ Fun fact I'm ENFJ
+  
+- 📷 [Garen's Studo](www.garenhu.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zihanhu123/) 
