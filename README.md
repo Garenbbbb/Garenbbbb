@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact I'm ENFJ
   
-- 📷 [Garen's Studo](www.garenhu.com)
+- 📷 [Garen's Studo](https://www.garenhu.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihanhu123) 
